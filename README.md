@@ -1,4 +1,4 @@
-### Resumo
+# Resumo
 O objetivo do modelo é realizar uma previsão do grau de obesidade de uma pessoa utilizando 4 métodos diferentes.
 ## Dataset
 Base de dados utilizada: https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction
